@@ -44,7 +44,7 @@ Pod는 언제든지 죽고 다시 만들어질수 있고, 그 때마다 새로�
 
 #### StatefulSets vs ReplicaSets (or ReplicationControllers)
 
-![](img/Pet_cattle.png)
+![](img/pet_cattle.png)
 [K8s beginner 2_advanced_ep02_201904221130_post ](https://www.slideshare.net/InhoKang2/k8s-beginner-2advancedep02201904221130post)by inho kang
 
 
